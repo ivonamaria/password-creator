@@ -1,21 +1,27 @@
 # Module 5 Challenge: Password Generator
 
 ## Overview
- 
-This week’s challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
-The following image shows the web application's appearance and functionality:
+I have created a password generator for an employee so that they can create a random password based on
+the information they have provided, such as: 
 
-![password generator demo](./assets/05-javascript-challenge-demo.png)
+ * Generate a password when the button is clicked
+ * Present a series of prompts for password criteria
+ * Length of password
+ * At least 8 characters but no more than 128.
+ * Character types
+ * Lowercase
+ * Uppercase
+ * Numeric
+ * Special characters ($@%&*, etc)
 
-* Generate a password when the button is clicked
-  * Present a series of prompts for password criteria
-    * Length of password
-      * At least 8 characters but no more than 128.
-    * Character types
-      * Lowercase
-      * Uppercase
-      * Numeric
-      * Special characters ($@%&*, etc)
-  * Code should validate for each input and at least one character type should be selected
-  * Once prompts are answered then the password should be generated and displayed in an alert or written to the page
+It is a website operated application that runs in the browser. 
+Click here to view the Password Creator Website Application.
+
+## Images 
+The following screenshots present the web application's appearance and functionality:
+
+![password generator](/assets/Screenshot%202023-02-08%20at%2014.05.24.png)
+![password generator](/assets/Screenshot%202023-02-08%20at%2014.05.43.png)
+![password generator](/assets/Screenshot%202023-02-08%20at%2014.06.08.png)
+
