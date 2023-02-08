@@ -16,9 +16,11 @@ the information they have provided, such as:
  * Special characters ($@%&*, etc)
 
 It is a website operated application that runs in the browser. 
-Click here to view the Password Creator Website Application.
 
-## Images 
+[Click here](https://ivonamaria.github.io/password-creator/) to view the Password Creator Website Application.
+
+## Images  
+
 The following screenshots present the web application's appearance and functionality:
 
 ![password generator](/assets/Screenshot%202023-02-08%20at%2014.05.24.png)
